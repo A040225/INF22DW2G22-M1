@@ -2,14 +2,17 @@
 
 _A API tem os seguintes recursos_
 
-## Disciplina
-que contem os seguintes elementos (id, ano, curso_id, nome e professor_id)
+## users
+que contem os seguintes elementos (id, username, password, firstName, lastName, createdAt e updatedAt)
 
-## Curso
-que contem os seguintes elementos (id, nome e nrAnos)
+## clientes
+que contem os seguintes elementos (id, nome, morada, createdAt e updatedAt)
 
-## Professor
-que contem os seguintes elementos (id, nome)
+## produtos
+que contem os seguintes elementos (id, nome, preco, createdAt e updatedAt)
 
-## Aluno
-que contem os seguintes elementos (id, nome, n_aluno, diciplina_id)
+## faturas
+que contem os seguintes elementos (id, descricao, createdAt, updatedAt e clienteId)
+
+## detalheFaturas
+que contem os seguintes elementos (quantidade, faturaId, produtoId)
