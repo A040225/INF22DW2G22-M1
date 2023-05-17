@@ -10,7 +10,7 @@ Este trabalho reporta-se ao momento de avaliação designado por M1  desenvolvid
 Para o desenvolvimento do projeto criou-se um modelo basico de faturaçao, em que para além da autenticaçao (basicAuth) se pode criar clietnes e  produtos na base de dados.  o exemplo é constituido pelos seguintes recursos, users(utilizadores) Faturas, Produtos, Clientes e Detalhe de Faturas.  o objectivo passa  por permitir a criaçao de produtos e  clientes e que por sua vez são associados a faturas. 
 
 ## Galeria
-# Swagger IO - OpenAPI 3.0
+# Swagger IO
 ![swagger](/Documentos/Imagens/swagger.png "Swagger")
 
 # Docker
