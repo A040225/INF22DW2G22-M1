@@ -11,8 +11,7 @@ Para o desenvolvimento do projeto criou-se um modelo basico de faturaçao, em qu
 
 ## Galeria
 # Swagger IO - OpenAPI 3.0
-![swagger](/Documentos/Imagens/Swagger/swagger.png"Swagger 1")
-Restantes imagens em [/doc/images/Swagger](https://github.com/INF22DWIG24/ReportDW1/tree/main/doc/images/Swagger)
+![swagger](/Documentos/Imagens/Swagger/swagger.png "Swagger 1")
 
 # Docker
 ![docker](/doc/images/Docker/docker_1.png "Docker 1")
