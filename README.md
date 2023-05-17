@@ -19,9 +19,6 @@ Para o desenvolvimento do projeto criou-se um modelo basico de faturaçao, em qu
 # MySQL
 ![swagger](/Documentos/Imagens/mysql.png "MySQL")
 
-# Postman
-![swagger](/doc/images/Swagger/swagger_1.png "Swagger 1")
-
 ## Tecnologias
 * [nodeJS](https://nodejs.org/en/)
 * [MySQL](https://www.mysql.com/)
