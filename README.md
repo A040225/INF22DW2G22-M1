@@ -34,7 +34,7 @@ Para o desenvolvimento do projeto criou-se um modelo basico de faturaçao, em qu
 ## Relatório
 
 ### Apresentação do projeto
-* Capitulo 1: [Descrição do projeto](Documentos/Descricao_Projeto.md)
+* Capitulo 1: [Descrição do projeto](Documentos/Descricao_Projeto)
 * Capitulo 2: [Recursos](doc/c2.md)
 * Capitulo 3: [Desenvolvimento](doc/c3.md)
 
