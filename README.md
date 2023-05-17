@@ -11,15 +11,16 @@ Para o desenvolvimento do projeto criou-se um modelo basico de faturaçao, em qu
 
 ## Galeria
 # Swagger IO - OpenAPI 3.0
-![swagger](/Documentos/Imagens/swagger.png "Swagger 1")
+![swagger](/Documentos/Imagens/swagger.png "Swagger")
 
 # Docker
-![docker](/doc/images/Docker/docker_1.png "Docker 1")
-Restantes imagens em [/doc/images/Docker](https://github.com/INF22DWIG24/ReportDW1/tree/main/doc/images/Docker)
+![swagger](/doc/images/docker.png "Docker")
+
+# MySQL
+![swagger](/doc/images/mysql.png "MySQL")
 
 # Postman
-![postman](/doc/images/Postman/postman_1.png "Postman 1")
-Restantes imagens em [/doc/images/Postman](https://github.com/INF22DWIG24/ReportDW1/tree/main/doc/images/Postman)
+![swagger](/doc/images/Swagger/swagger_1.png "Swagger 1")
 
 ## Tecnologias
 * [nodeJS](https://nodejs.org/en/)
