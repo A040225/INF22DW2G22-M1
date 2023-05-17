@@ -30,11 +30,11 @@ Para o desenvolvimento do projeto criou-se um modelo basico de faturaçao, em qu
 
 ### Frameworks e Bibliotecas
 * [nodeJS](https://nodejs.org/en/)
-* * [Swagger](https://swagger.io/)
+* [Swagger](https://swagger.io/)
 ## Relatório
 
 ### Apresentação do projeto
-* Capitulo 1: [Descrição do projeto](doc/c1.md)
+* Capitulo 1: [Descrição do projeto](doc/Descricao_Projeto.md)
 * Capitulo 2: [Recursos](doc/c2.md)
 * Capitulo 3: [Desenvolvimento](doc/c3.md)
 
