@@ -9,6 +9,12 @@ Este trabalho reporta-se ao momento de avaliação designado por M1  desenvolvid
 ## Faturaçao
 Para o desenvolvimento do projeto criou-se um modelo basico de faturaçao, em que para além da autenticaçao (basicAuth) se pode criar clietnes e  produtos na base de dados.  o exemplo é constituido pelos seguintes recursos, users(utilizadores) Faturas, Produtos, Clientes e Detalhe de Faturas.  o objectivo passa  por permitir a criaçao de produtos e  clientes e que por sua vez são associados a faturas. 
 
+## Tecnologias
+* [nodeJS](https://nodejs.org/en/)
+* [MySQL](https://www.mysql.com/)
+* [Docker](https://www.docker.com/)
+* [Postman](https://www.postman.com/)
+
 ## Galeria
 # Swagger IO
 ![swagger](/Documentos/Imagens/swagger.png "Swagger")
@@ -19,11 +25,7 @@ Para o desenvolvimento do projeto criou-se um modelo basico de faturaçao, em qu
 # MySQL
 ![swagger](/Documentos/Imagens/mysql.png "MySQL")
 
-## Tecnologias
-* [nodeJS](https://nodejs.org/en/)
-* [MySQL](https://www.mysql.com/)
-* [Docker](https://www.docker.com/)
-* [Postman](https://www.postman.com/)
+
 
 ### Frameworks e Bibliotecas
 * [nodeJS](https://nodejs.org/en/)
